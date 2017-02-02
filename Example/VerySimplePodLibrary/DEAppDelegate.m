@@ -15,7 +15,7 @@
 {
     SimpleFooManager *manager = [[SimpleFooManager alloc]init];
     NSString *echo = [manager echo:@"Hello World!"];
-    NSLog(@"%@", echo);
+    NSLog(@"This is the response: %@", echo);
     
     return YES;
 }

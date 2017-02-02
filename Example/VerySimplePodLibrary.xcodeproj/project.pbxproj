@@ -250,6 +250,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = marcobonati;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = X5V7LZ4UN8;
+					};
 					6003F5AD195388D20070C39A = {
 						LastSwiftMigration = 0820;
 						TestTargetID = 6003F589195388D20070C39A;
@@ -525,6 +528,7 @@
 			baseConfigurationReference = A2FBC0B80CE7026F8523D16F /* Pods-VerySimplePodLibrary_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = X5V7LZ4UN8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VerySimplePodLibrary/VerySimplePodLibrary-Prefix.pch";
 				INFOPLIST_FILE = "VerySimplePodLibrary/VerySimplePodLibrary-Info.plist";
@@ -540,6 +544,7 @@
 			baseConfigurationReference = 1480E1CEE500009E42DC8F30 /* Pods-VerySimplePodLibrary_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = X5V7LZ4UN8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VerySimplePodLibrary/VerySimplePodLibrary-Prefix.pch";
 				INFOPLIST_FILE = "VerySimplePodLibrary/VerySimplePodLibrary-Info.plist";

@@ -17,7 +17,6 @@
     NSString *echo = [manager echo:@"Hello World!"];
     NSLog(@"%@", echo);
     
-    // Override point for customization after application launch.
     return YES;
 }
 

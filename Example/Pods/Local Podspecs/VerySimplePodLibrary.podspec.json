@@ -1,0 +1,22 @@
+{
+  "name": "VerySimplePodLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of VerySimplePodLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/marcobonati/VerySimplePodLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "marcobonati": "marco.bonati@vipera.com"
+  },
+  "source": {
+    "git": "https://github.com/marcobonati/VerySimplePodLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VerySimplePodLibrary/Classes/**/*"
+}

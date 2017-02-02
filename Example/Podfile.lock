@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - VerySimplePodLibrary (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - VerySimplePodLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  VerySimplePodLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  VerySimplePodLibrary: f2c769ce124263facabb9c4418004f86649c27f5
+
+PODFILE CHECKSUM: 6ef5fb25de38973cc2ce99329ba151b01b3bc0b6
+
+COCOAPODS: 1.2.0

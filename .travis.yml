@@ -2,4 +2,3 @@ language: objective-c
 osx_image: xcode8.2
 xcode_project: Example/VerySimplePodLibrary.xcodeproj
 xcode_scheme: VerySimplePodLibrary 
-xcode_sdk: iphonesimulator8.4
